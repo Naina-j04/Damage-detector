@@ -1,0 +1,122 @@
+2025-05-21 11:08:32,230 - INFO - Loading model and class indices...
+2025-05-21 11:08:32,760 - INFO - Model and class indices loaded successfully
+2025-05-21 11:09:11,805 - INFO - Loading model and class indices...
+2025-05-21 11:09:12,267 - INFO - Model and class indices loaded successfully
+2025-05-21 11:09:28,101 - INFO - Processing image: headphones_02.jpg
+2025-05-21 11:09:28,398 - INFO - Prediction for headphones_02.jpg: damaged (confidence: 0.68)
+2025-05-21 11:09:53,760 - INFO - Processing image: s24_d5.jpeg
+2025-05-21 11:09:53,933 - INFO - Prediction for s24_d5.jpeg: uncertain (confidence: 0.53)
+2025-05-21 11:10:03,747 - INFO - Processing image: s24_d2.jpeg
+2025-05-21 11:10:03,871 - INFO - Prediction for s24_d2.jpeg: damaged (confidence: 0.78)
+2025-05-21 11:10:24,421 - INFO - Processing image: s24d.jpg
+2025-05-21 11:10:24,607 - INFO - Prediction for s24d.jpg: damaged (confidence: 0.82)
+2025-05-21 11:10:41,077 - INFO - Processing image: headphones_000001.jpg
+2025-05-21 11:10:41,243 - INFO - Prediction for headphones_000001.jpg: damaged (confidence: 0.74)
+2025-05-21 11:10:42,268 - INFO - Processing image: headphones_000001.jpg
+2025-05-21 11:10:42,425 - INFO - Prediction for headphones_000001.jpg: damaged (confidence: 0.74)
+2025-05-21 11:10:49,658 - INFO - Processing image: headphones_000002.jpg
+2025-05-21 11:10:49,792 - INFO - Prediction for headphones_000002.jpg: damaged (confidence: 0.70)
+2025-05-21 11:14:16,095 - INFO - Loading model and class indices...
+2025-05-21 11:14:17,398 - INFO - Model and class indices loaded successfully
+2025-05-21 12:03:57,486 - INFO - Loading model and class indices...
+2025-05-21 12:03:59,204 - INFO - Model and class indices loaded successfully
+2025-05-21 12:05:51,664 - INFO - Processing image: headphones_000001.jpg
+2025-05-21 12:05:54,999 - INFO - Prediction for headphones_000001.jpg: not damaged (confidence: 0.68)
+2025-05-21 12:06:11,427 - INFO - Processing image: white_1.jpeg
+2025-05-21 12:06:11,602 - INFO - Prediction for white_1.jpeg: uncertain (confidence: 0.60)
+2025-05-21 12:06:33,815 - INFO - Processing image: s24_d5.jpeg
+2025-05-21 12:06:34,949 - INFO - Prediction for s24_d5.jpeg: damaged (confidence: 0.93)
+2025-05-21 12:07:18,659 - INFO - Processing image: tshirt.jpg
+2025-05-21 12:07:18,808 - INFO - Prediction for tshirt.jpg: uncertain (confidence: 0.55)
+2025-05-21 12:07:32,312 - INFO - Processing image: shoed.jpg
+2025-05-21 12:07:32,482 - INFO - Prediction for shoed.jpg: damaged (confidence: 0.86)
+2025-05-21 12:12:03,873 - INFO - Loading model and class indices...
+2025-05-21 12:12:05,525 - INFO - Model and class indices loaded successfully
+2025-05-21 12:16:35,633 - INFO - Loading model and class indices...
+2025-05-21 12:16:38,570 - INFO - Model and class indices loaded successfully
+2025-05-21 12:19:05,116 - INFO - Loading model and class indices...
+2025-05-21 12:19:06,483 - INFO - Model and class indices loaded successfully
+2025-05-21 12:20:58,579 - INFO - Loading model and class indices...
+2025-05-21 12:20:59,941 - INFO - Model and class indices loaded successfully
+2025-05-21 12:23:37,817 - INFO - Processing image: test.jpeg
+2025-05-21 12:23:39,628 - INFO - Prediction for test.jpeg: damaged (confidence: 0.74)
+2025-05-21 12:24:35,396 - INFO - Processing image: test.jpeg
+2025-05-21 12:24:35,531 - INFO - Prediction for test.jpeg: damaged (confidence: 0.74)
+2025-05-21 12:30:47,444 - INFO - Loading model and class indices...
+2025-05-21 12:30:50,920 - INFO - Model and class indices loaded successfully
+2025-05-21 12:31:22,407 - INFO - Processing image: test.jpeg
+2025-05-21 12:31:25,429 - INFO - Prediction for test.jpeg: damaged (confidence: 0.74)
+2025-05-21 12:31:39,051 - INFO - Processing image: broke.jpeg
+2025-05-21 12:31:39,284 - INFO - Prediction for broke.jpeg: uncertain (confidence: 0.51)
+2025-05-21 12:31:53,836 - INFO - Processing image: shoed.jpg
+2025-05-21 12:31:54,503 - INFO - Prediction for shoed.jpg: damaged (confidence: 0.81)
+2025-05-21 12:32:09,132 - INFO - Processing image: headphones_000001.jpg
+2025-05-21 12:32:09,528 - INFO - Prediction for headphones_000001.jpg: not damaged (confidence: 0.83)
+2025-05-22 14:06:40,651 - INFO - Loading model and class indices...
+2025-05-22 14:06:42,482 - INFO - Model and class indices loaded successfully
+2025-05-22 14:08:06,845 - INFO - Processing image: test.jpeg
+2025-05-22 14:08:09,440 - INFO - Prediction for test.jpeg: damaged (confidence: 0.74)
+2025-05-22 14:08:23,688 - INFO - Processing image: shoed.jpg
+2025-05-22 14:08:23,896 - INFO - Prediction for shoed.jpg: damaged (confidence: 0.81)
+2025-05-22 14:08:38,027 - INFO - Processing image: s24_p1.jpeg
+2025-05-22 14:08:38,582 - INFO - Prediction for s24_p1.jpeg: uncertain (confidence: 0.52)
+2025-05-22 14:08:49,494 - INFO - Processing image: s24_p6.jpg
+2025-05-22 14:08:49,836 - INFO - Prediction for s24_p6.jpg: uncertain (confidence: 0.53)
+2025-05-22 14:08:51,513 - INFO - Processing image: s24_p6.jpg
+2025-05-22 14:08:51,692 - INFO - Prediction for s24_p6.jpg: uncertain (confidence: 0.53)
+2025-05-22 14:09:00,634 - INFO - Processing image: s24_p7.jpg
+2025-05-22 14:09:00,900 - INFO - Prediction for s24_p7.jpg: uncertain (confidence: 0.61)
+2025-05-22 14:09:08,373 - INFO - Processing image: s24_p3.jpeg
+2025-05-22 14:09:08,802 - INFO - Prediction for s24_p3.jpeg: uncertain (confidence: 0.57)
+2025-05-22 14:09:20,585 - INFO - Processing image: headphones_000001.jpg
+2025-05-22 14:09:20,981 - INFO - Prediction for headphones_000001.jpg: not damaged (confidence: 0.83)
+2025-05-22 14:09:50,244 - INFO - Processing image: s24_d3.jpeg
+2025-05-22 14:09:50,639 - INFO - Prediction for s24_d3.jpeg: damaged (confidence: 0.84)
+2025-05-22 14:10:05,915 - INFO - Processing image: s24_d7.jpeg
+2025-05-22 14:10:06,112 - INFO - Prediction for s24_d7.jpeg: damaged (confidence: 0.90)
+2025-05-22 14:10:07,562 - INFO - Processing image: s24_d7.jpeg
+2025-05-22 14:10:07,784 - INFO - Prediction for s24_d7.jpeg: damaged (confidence: 0.90)
+2025-05-22 14:45:46,829 - INFO - Processing image: shoed.jpg
+2025-05-22 14:45:48,293 - INFO - Prediction for shoed.jpg: damaged (confidence: 0.81)
+2025-05-22 14:46:03,903 - INFO - Processing image: headphones_000001.jpg
+2025-05-22 14:46:04,161 - INFO - Prediction for headphones_000001.jpg: not damaged (confidence: 0.83)
+2025-05-22 14:46:20,187 - INFO - Processing image: test.jpeg
+2025-05-22 14:46:20,440 - INFO - Prediction for test.jpeg: damaged (confidence: 0.74)
+2025-05-22 14:46:41,728 - INFO - Processing image: s24_d7.jpeg
+2025-05-22 14:46:42,049 - INFO - Prediction for s24_d7.jpeg: damaged (confidence: 0.90)
+2025-05-22 14:46:52,642 - INFO - Processing image: s24_d2.jpeg
+2025-05-22 14:46:52,822 - INFO - Prediction for s24_d2.jpeg: damaged (confidence: 0.76)
+2025-05-22 15:04:47,312 - INFO - Processing image: test.jpeg
+2025-05-22 15:04:48,155 - INFO - Prediction for test.jpeg: damaged (confidence: 0.74)
+2025-05-22 15:04:58,222 - INFO - Processing image: shoed.jpg
+2025-05-22 15:04:58,446 - INFO - Prediction for shoed.jpg: damaged (confidence: 0.81)
+2025-05-22 15:05:01,304 - INFO - Processing image: shoed.jpg
+2025-05-22 15:05:01,494 - INFO - Prediction for shoed.jpg: damaged (confidence: 0.81)
+2025-05-22 15:06:27,438 - INFO - Processing image: shoed.jpg
+2025-05-22 15:06:27,741 - INFO - Prediction for shoed.jpg: damaged (confidence: 0.81)
+2025-05-22 15:06:38,709 - INFO - Processing image: test.jpeg
+2025-05-22 15:06:38,991 - INFO - Prediction for test.jpeg: damaged (confidence: 0.74)
+2025-05-22 15:06:50,039 - INFO - Processing image: headphones_000001.jpg
+2025-05-22 15:06:50,563 - INFO - Prediction for headphones_000001.jpg: not damaged (confidence: 0.83)
+2025-05-22 15:07:10,098 - INFO - Processing image: s24_d6.jpeg
+2025-05-22 15:07:10,356 - INFO - Prediction for s24_d6.jpeg: damaged (confidence: 0.85)
+2025-05-22 15:07:49,490 - INFO - Processing image: download.jpeg
+2025-05-22 15:07:49,783 - INFO - Prediction for download.jpeg: damaged (confidence: 0.71)
+2025-05-22 15:07:50,860 - INFO - Processing image: download.jpeg
+2025-05-22 15:07:51,126 - INFO - Prediction for download.jpeg: damaged (confidence: 0.71)
+2025-05-22 15:07:52,442 - INFO - Processing image: download.jpeg
+2025-05-22 15:07:52,747 - INFO - Prediction for download.jpeg: damaged (confidence: 0.71)
+2025-05-22 15:08:05,010 - INFO - Processing image: headphones_000001.jpg
+2025-05-22 15:08:05,581 - INFO - Prediction for headphones_000001.jpg: not damaged (confidence: 0.83)
+2025-05-22 15:08:15,125 - INFO - Processing image: download.jpeg
+2025-05-22 15:08:15,589 - INFO - Prediction for download.jpeg: damaged (confidence: 0.71)
+2025-05-22 15:14:02,911 - INFO - Processing image: shoed.jpg
+2025-05-22 15:14:03,283 - INFO - Prediction for shoed.jpg: damaged (confidence: 0.81)
+2025-05-22 15:14:13,562 - INFO - Processing image: test.jpeg
+2025-05-22 15:14:13,875 - INFO - Prediction for test.jpeg: damaged (confidence: 0.74)
+2025-05-22 15:14:23,723 - INFO - Processing image: headphones_000001.jpg
+2025-05-22 15:14:24,251 - INFO - Prediction for headphones_000001.jpg: not damaged (confidence: 0.83)
+2025-05-22 15:15:03,122 - INFO - Processing image: download.jpeg
+2025-05-22 15:15:03,455 - INFO - Prediction for download.jpeg: damaged (confidence: 0.71)
+2025-05-22 15:15:16,330 - INFO - Processing image: s24_d2.jpeg
+2025-05-22 15:15:16,781 - INFO - Prediction for s24_d2.jpeg: damaged (confidence: 0.76)
